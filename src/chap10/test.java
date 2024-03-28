@@ -6,6 +6,7 @@ public class test {
 		// TODO Auto-generated method stub
 		System.out.println("깃/깃허브 데스트");
 		System.out.println("1차 기능 완료.");
+		System.out.println("1차 기능 완료.");
 
 	}
 
